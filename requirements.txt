@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+pydantic
+httpx
+pytest
+pytest-cov
+flake8
+mypy
+pandas-stubs
+build

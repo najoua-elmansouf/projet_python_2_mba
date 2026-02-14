@@ -1,0 +1,4 @@
+id,date,client_id,card_id,amount,use_chip,merchant_id,merchant_city,merchant_state,zip,mcc,errors
+t1,2010-01-01T10:00:00,335,5131,$12.50,Online Transaction,50292,ONLINE,,,"7801",
+t2,2010-01-01T11:00:00,335,5131,$250.00,Chip Transaction,60001,PARIS,IDF,75001,5411,
+t3,2010-01-02T09:00:00,999,9999,$6000.00,Online Transaction,70000,LYON,ARA,69000,4829,

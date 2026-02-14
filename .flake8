@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 150
+extend-ignore = E203,W503
+exclude = .venvapi,__pycache__,.pytest_cache,build,dist,htmlcov
