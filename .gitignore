@@ -22,3 +22,7 @@ htmlcov/
 
 # VS Code
 .vscode/
+
+# data (big files)
+data/*.csv
+data/*.json
